@@ -1,11 +1,13 @@
 # Byte-compiled / optimized / DLL files
+.env
+venv/
 __pycache__/
+config.py
 *.py[codz]
 *$py.class
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
