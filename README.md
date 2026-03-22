@@ -45,7 +45,7 @@ The chatbot maintains conversation history, generates context-aware responses, a
 CliChatbot/
 │── main.py          # Entry point (CLI interaction loop)
 │── llm.py           # Handles API calls to OpenAI
-│── config.py        # Configuration (API key, model)
+│── config.py        # Configuration (API key, model)  (not committed)
 │── .env             # Environment variables (not committed)
 │── requirements.txt
 │── README.md
